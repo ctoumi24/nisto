@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:27:31	50643/50643	---MC-	200	added ('OK')	text/html	date:Sun,%2029%20Aug%202021%2012:33:15%20GMT	https://getmyfile.co/12637fd	C:/My%20Web%20Sites/nisto/getmyfile.co/12637fd.html	(from )
+08:27:31	208/208	---M--	404	error ('Not%20Found')	text/html	date:Sun,%2029%20Aug%202021%2012:33:16%20GMT	https://getmyfile.co/robots.txt		(from )
